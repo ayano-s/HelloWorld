@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  HelloWorld
 //
-//  Created by 齋藤　綾乃 on 2020/07/27.
+//  Created by ayano-s on 2020/07/27.
 //  Copyright © 2020 ayano-s. All rights reserved.
 //
 
